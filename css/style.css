@@ -1,0 +1,60 @@
+body,td,th{
+	font-family:sans,arial;
+	font-size:12px;
+}
+#container{
+	text-align:left;
+	width:800px;
+}
+.label{
+	float:left;
+	width:100px;
+	text-align:right;
+	padding:5px;
+}
+input{
+	border:1px solid #bbb;
+}
+.field{
+	float:left;
+	width:650px;
+	padding:5px;
+}
+.subdata{
+	background-color:#CCC;
+	padding:4px;
+	margin:2px;
+}
+table{
+	background-color:#BBB;
+	margin:0px 0px 5px 0px;
+}
+th{
+	background-color:#CCC;
+}
+td{
+	background-color:#FFF;
+}
+.tablelabel{
+	background-color:#DDD;
+}
+#nav ul{
+    margin:0px 0px 20px 0px;
+    padding:0px;
+}
+#nav ul li{
+    margin:0px;
+    padding:0px;
+    float:left;
+    list-style:none;
+}
+#nav ul li a:link,#nav ul li a:active,#nav ul li a:visited{
+    text-decoration:none;
+    display:block;
+    padding:5px 10px 5px 10px;
+    margin:0px 2px 0px 0px;
+    background-color:#ccc;
+}
+#nav ul li a:hover{
+    background-color:#bbb;
+}
